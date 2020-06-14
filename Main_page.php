@@ -56,7 +56,7 @@ img:hover {
       <a href="link4.php" target="_right_">Login</a>
     </div>
   </div>
-<img src="welcome.gif" alt="Welcome" style="width:500px;height:100;border-radius: 8px;"</a>
+<img src="welcome.gif" alt="Welcome" style="width:500px;height:100;border-radius: 8px;"
 </div>
 
 </body>
