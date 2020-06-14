@@ -73,8 +73,6 @@ img {vertical-align: middle;}
   from {opacity: .4} 
   to {opacity: 1}
 }
-
-/* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
@@ -136,7 +134,7 @@ function showSlides() {
     }
     slides[slideIndex-1].style.display = "block";  
     dots[slideIndex-1].className += " active";
-    setTimeout(showSlides, 2000); // Change image every 2 seconds
+    setTimeout(showSlides, 2000); 
 }
 </script>
 
